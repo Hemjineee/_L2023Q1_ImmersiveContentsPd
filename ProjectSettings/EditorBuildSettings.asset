@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Week03_Scenes/Week03_Scenes_Standard_URP.unity
+    guid: 41f28256f8a99e14fa88528dfa0e2bf7
+  - enabled: 1
+    path: Assets/Week03_Scenes/Week03_Scenes_BuiltIn_Empty.unity
+    guid: 04ee44fd039dd7749ba2b50fec7e14e8
   m_configObjects: {}
